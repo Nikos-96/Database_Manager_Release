@@ -28,4 +28,4 @@ Database Manager is an application designed to help you manage your MySQL databa
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Contact
-If you have any questions or suggestions, please feel free to contact me per email nikos7331@gmail.com.
+If you have any questions or suggestions, please feel free to contact me via email nikos7331@gmail.com.
