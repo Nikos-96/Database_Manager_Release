@@ -11,9 +11,6 @@ Database Manager is an application designed to help you manage your MySQL databa
 
 ## Getting Started
 
-### Prerequisites
-- MySQL Server
-
 ### Installation
 1. Download the latest version from the [Releases](https://github.com/nikosm-96/database_manager_release/releases) page.
 2. Extract the downloaded ZIP file.
